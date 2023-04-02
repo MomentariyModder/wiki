@@ -5,6 +5,8 @@ coverY: 0
 
 # ⭐ Getting Start
 
+<figure><img src=".gitbook/assets/logo.png" alt=""><figcaption></figcaption></figure>
+
 Welcome to the MomentariyModder mods wiki!
 
 ### Changelog
